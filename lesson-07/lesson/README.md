@@ -2,3 +2,6 @@
 
 - Adentrar na extensibilidade do Node e como isso facilita o dia a dia da pessoa desenvolvedora
 - Falar sobre módulo URL
+
+## Materiais sugeridos
+- https://nodejs.org/api/url.html
